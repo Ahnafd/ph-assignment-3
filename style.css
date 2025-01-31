@@ -4,6 +4,7 @@
 body main{
     font-family: "Sora", serif;
 }
+
 .hero {
     font-family: "ADLaM Display", serif;
 }
@@ -28,5 +29,8 @@ body main{
 }
 .some{
     display: none;
+}
+.full{
+    width: 100%;
 }
 }
