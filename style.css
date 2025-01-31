@@ -33,4 +33,7 @@ body main{
 .full{
     width: 100%;
 }
+.padding{
+    padding-left: 400px;
+}
 }
