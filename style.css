@@ -37,6 +37,7 @@ body main{
     padding-left: 400px;
 }
 .body{
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 }
