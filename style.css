@@ -21,7 +21,7 @@ body main{
         white-space: nowrap;
         overflow: hidden;
         width: 0;
-        animation: typing 4s steps(50, end) forwards, blink 0.7s ease-in-out;
+        animation: typing 4s steps(50, end) forwards, blink 0.7s ease-in-out infinite;
        }
        @keyframes typing {
            from { width: 0;}
